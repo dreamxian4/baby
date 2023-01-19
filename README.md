@@ -66,4 +66,27 @@ LOL|￥20|1
 [Github官方网站](https://github.com "点击跳转到Github")
 
 
+#### 插入图片
+![壁纸截图](D://desktop//a.png)
+
+
+#### 插入代码
+```c
+#include<stdio.h>
+int main(){
+	return 0;
+}
+
+
+```
+
+```bash
+cd /user/bin
+```
+
+```cpp
+#include<iostream>
+using namespace std;:wq
+
+```
 
